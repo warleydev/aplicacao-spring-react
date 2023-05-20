@@ -55,11 +55,13 @@
   align-items: center;
   justify-content: center;
   transition: ease-in-out 0.4s;
-  border-color: #6638c4;
+  background-image: linear-gradient(90deg, #39036d, #39036d, #043783, #0082be);
+  border-color: #fff
 }
 
-.dsmovie-btn:hover{
+.dsmovie-btn:hover {
   transition: ease-in-out 0.4s;
-  background-color: #6033bb;
-  border-color: #7644da;
+  background-image: linear-gradient(90deg, #4a008f, #4c0192, #0b48a5, #0a94d4);
+  border-color: #fff;
+  transform: scale(1.1);
 }
