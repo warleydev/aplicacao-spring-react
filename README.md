@@ -5,7 +5,7 @@
 
 WFilmes é um projeto web FullStack utilizando Java com Spring no backend e React no frontend, desenvolvido por mim durante a **Semana DevSuperior**, evento organizado pela [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
 
-A aplicação consiste em um site onde o usuário avalia filmes que aparacem na tela através de uma consulta ao banco de dados Postgres, e sua avaliação, assim como o email utilizado são salvos no banco de dados, calculando novamente a média e a quantidade de avaliações do filme.
+A aplicação consiste em um site onde o usuário avalia filmes que são exibidos na tela através de uma consulta ao banco de dados Postgres, e sua avaliação, assim como o email utilizado são salvos no banco de dados, calculando novamente a média e a quantidade de avaliações do filme.
 
 ## Layout web
 ![web1](https://github.com/warleydev/aplicacao-spring-react/assets/121511600/ef6fe6a7-d01b-49cd-bfa3-c93231e79b31)
