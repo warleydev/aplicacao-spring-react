@@ -66,6 +66,6 @@ yarn start
 
 # Autor
 
-Warley da Silva Costa Meloli
+Warley da Silva Costa Melo
 
-[https://www.linkedin.com/in/wmazoni](https://www.linkedin.com/in/warleycostamelo/)
+[https://www.linkedin.com/in/warleycostamelo](https://www.linkedin.com/in/warleycostamelo/)
